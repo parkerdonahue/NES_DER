@@ -12,7 +12,7 @@ The DESER project aims to explore and advance the application of depolarized ele
 - **Research and Development**: Investigate the fundamental principles and mechanisms of depolarized electrochemical reactions in ocean water.
 - **Data Collection**: Gather comprehensive data on reactor performance, efficiency, and environmental impact in the New England shelf region.
 - **Optimization**: Develop strategies to enhance the efficiency and sustainability of these reactors.
-- **Applications**: Explore potential applications such as renewable energy production, carbon capture, and environmental remediation.
+- **Applications**: The primary application of this project is carbon capture from ocean water. This approach not only helps in reducing atmospheric CO2 levels but also offers potential benefits such as mitigating climate change, enhancing marine ecosystem health, and providing a sustainable source of carbon for industrial processes. 
 
 ## Repository Contents
 
