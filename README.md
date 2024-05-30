@@ -24,3 +24,56 @@ This repository will serve as a central hub for all data, research findings, and
 - **Code and Models**: Computational models, simulations, and analysis scripts used in our research.
 - **Collaborative Tools**: Resources to facilitate collaboration among researchers, including templates, guidelines, and discussion forums.
 - **Online Module and Simulator**: As the project progresses, we will be adding the code for a front-facing web module and simulator. These tools will allow users to interact with and visualize the data and findings from the DESER project, determining a sites fitness for DESR instalatiion.
+
+  # Initial DER Simulator Program Outline
+
+## Key Features
+
+- **Location Selection**: Interactive map to choose the deployment location.
+- **Simulation Output**: Visualization of water quality changes, plankton effects, cost analysis, and overall environmental impact.
+- **Data Visualization**: Graphs and charts to represent changes over time and space.
+- **Reporting**: Generate detailed reports on the simulation results.
+
+## Required Data
+
+### Water Quality Parameters
+
+- Initial alkalinity
+- pH
+- Dissolved Inorganic Carbon (DIC)
+- Carbonate ion concentration
+- Conductivity
+- Plankton density and diversity
+
+### Site Parameters
+
+- Water depth
+- Currents
+- Temperatures
+- Marine ecosystem features
+- Species of plankton
+
+### Oceanographic Databases
+
+- NOAA
+- NASA
+
+## Build the Simulation Logic
+
+1. **Calculate Water Quality Changes**: Based on DER operations.
+2. **Model Ecological Impact**: On plankton and other marine life.
+3. **Perform Cost Analysis**: Considering energy consumption and maintenance.
+4. **Implement Graphs and Charts**: To visualize simulation results.
+5. **Dynamic Updates**: Ensure that visualizations update dynamically as parameters change.
+
+## Technical Stack
+
+### Frontend
+
+- **HTML/CSS**: Web development technologies for structuring and styling.
+- **JavaScript/Bootstrap**: For adding interactivity.
+
+### Backend
+
+- **Flask**: Python web framework.
+- **SQLite**: Self-contained database engine that integrates well with Flask.
