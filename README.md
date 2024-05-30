@@ -24,7 +24,3 @@ This repository will serve as a central hub for all data, research findings, and
 - **Code and Models**: Computational models, simulations, and analysis scripts used in our research.
 - **Collaborative Tools**: Resources to facilitate collaboration among researchers, including templates, guidelines, and discussion forums.
 - **Online Module and Simulator**: As the project progresses, we will be adding the code for a front-facing web module and simulator. These tools will allow users to interact with and visualize the data and findings from the DESER project, determining a sites fitness for DESR instalatiion.
-
-- Thank you for your interest in the **New England Shelf Depolarized Electrochemical Reactor with Ocean Water** project. We look forward to your contributions and collaboration!
-
-
