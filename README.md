@@ -21,6 +21,7 @@ This repository will serve as a central hub for all data, research findings, and
 - **Research Papers and Reports**: Detailed documentation of our research methodologies, experiments, and findings.
 - **Data Sets**: Raw and processed data collected from various experiments and field studies.
 - **Project Updates**: Regular updates on the progress of the project, including milestones and significant achievements.
+- **Online Module and Simulator**: As the project progresses, we will be adding the code for an online module and simulator. These tools will allow users to interact with and visualize the data and findings from the DESER project, determining a sites fitness for DESR instalatiion.
 - **Code and Models**: Computational models, simulations, and analysis scripts used in our research.
 - **Collaborative Tools**: Resources to facilitate collaboration among researchers, including templates, guidelines, and discussion forums.
 
